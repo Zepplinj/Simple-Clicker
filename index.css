@@ -1,0 +1,13 @@
+.centered{
+  text-align: center;
+  margin:15%
+}
+
+.butt_on{
+  background-color: lightblue;
+  color: white;
+}
+
+body{
+  background-image: url('click.png');
+}
